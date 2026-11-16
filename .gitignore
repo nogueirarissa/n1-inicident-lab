@@ -1,0 +1,16 @@
+# Segredos
+.env
+
+# Banco SQLite gerado pelo seed
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
